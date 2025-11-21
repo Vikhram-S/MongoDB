@@ -1,5 +1,8 @@
 # MongoDB
-
+```
+Name : Vikhram S
+Reg No : 212222060295
+```
 ## Aim
 
 To perform complete CRUD (Create, Read, Update, Delete) operations and advanced MongoDB queries on a Products collection, including conditional filtering, array-based searches, logical operators, regular expressions, sorting, skipping, and aggregation functions to manage and analyze product data effectively.
